@@ -1,0 +1,58 @@
+#login{
+width: 300px; border: 1px solid #d6d7da; 
+padding:0px 15px 15px 15px; 
+margin-left: 35%;
+border-radius: 5px;font-family: arial; 
+line-height: 16px;color: #333333; font-size: 14px; 
+background: #ffffff;rgba(200,200,200,0.7) 0 4px 10px -1px
+}
+#login{float:left;}
+#signup{float:right;}
+h3{color:#365D98}
+form label{font-weight: bold;}
+form label, form input{display: block;margin-bottom: 5px;width: 90%}
+form input{ 
+border: solid 1px #666666;padding: 10px;
+border: solid 1px #BDC7D8; margin-bottom: 20px
+}
+.button {
+background-color: yellow;
+border-color: #3ac162;
+font-weight: bold;
+padding: 12px 15px;
+max-width: 100px;
+color: red;
+margin-left: 50%;
+}
+.errorMsg{color: #cc0000;margin-bottom: 10px
+}
+header{
+	background-color: white;
+	color: #fff;
+
+}
+#logo{
+	width: 200px;
+	height: 150px;
+}
+h3{
+	color:red;
+}
+#tipousuario{
+
+	margin-bottom: 10px;
+}
+#titulo{
+		background-color: yellow;
+		width: 100%;
+		height: 50px;
+	}
+#contenidopestanas{
+    clear: both;  
+    background: dimgray;
+    padding: 20px 0px 20px 20px;
+    border-radius: 5px;
+    border-top-left-radius: 0px;
+    border: 2px solid bisque;
+    width: 1025px;
+}
